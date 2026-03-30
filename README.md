@@ -1,45 +1,60 @@
-# NearMe Landing Page
+# NearMe — Local Business Discovery Platform
 
-A modern and professional landing page for NearMe, a platform that connects users with local stores and small businesses.
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap_5.3-7952B3?style=flat-square&logo=bootstrap&logoColor=white)]()
+[![License](https://img.shields.io/badge/License-GPL_3.0-blue?style=flat-square)]()
 
-## Features
+NearMe connects users with local stores and small businesses, making it easy to quickly find specific products nearby. Discover, search, and support your local community — all in one platform.
 
-- **Responsive Design** - Works perfectly on all devices
-- **Modern UI/UX** - Clean and intuitive interface
-- **Solid Colors** - Professional color scheme without gradients
-- **Interactive Elements** - Hover effects and smooth animations
-- **Bootstrap 5** - Built with the latest Bootstrap framework
-- **FontAwesome Icons** - Beautiful and consistent iconography
+---
 
 ## Sections
 
-1. **Hero Section** - Main landing area with call-to-action
-2. **Features** - Why choose NearMe platform
-3. **Statistics** - Business benefits and metrics
-4. **For Stores** - Registration benefits for businesses
-5. **Testimonials** - User reviews and feedback
-6. **Contact** - Get in touch and store registration
-7. **Footer** - Complete site navigation and links
+| Section | Description |
+|:---|:---|
+| Hero | Main landing area with CTA |
+| Features | Why choose NearMe |
+| Statistics | Business benefits and metrics |
+| For Stores | Registration benefits for businesses |
+| Testimonials | User reviews and feedback |
+| Contact | Get in touch and store registration |
 
-## Technologies Used
+## Features
 
-- HTML5
-- CSS3 (with custom variables)
-- JavaScript (ES6+)
-- Bootstrap 5.3.2
-- FontAwesome 6.4.0
-- Google Fonts (Inter)
+- **Responsive design** — Works on all devices (mobile, tablet, desktop)
+- **Modern UI/UX** — Clean interface with smooth animations
+- **Interactive elements** — Hover effects, scroll animations
+- **Professional color scheme** — Solid colors, no gradients
+- **FontAwesome icons** — Consistent iconography
 
-## Getting Started
+## Tech stack
 
-1. Clone the repository
-2. Open `index.html` in your browser
-3. Or run a local server: `python -m http.server 8000`
+| Technology | Version |
+|:---|:---|
+| HTML5 | Semantic markup |
+| CSS3 | Custom properties, Flexbox, Grid |
+| JavaScript | ES6+ |
+| Bootstrap | 5.3.2 |
+| FontAwesome | 6.4.0 |
+| Google Fonts | Inter |
 
-## Live Preview
+## Getting started
 
-Open `index.html` in your browser to see the landing page in action.
+```bash
+git clone https://github.com/Luisr26/NearMe.git
+cd NearMe
+# Open in browser
+open index.html
+# Or run a local server
+python -m http.server 8000
+```
 
 ## License
 
-This project is licensed under the GPL-3.0 License. 
+This project is licensed under the GPL-3.0 License.
+
+## Author
+
+**Luis Alfredo Orozco Sanchez** — [GitHub](https://github.com/Luisr26)
